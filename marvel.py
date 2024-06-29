@@ -4,8 +4,6 @@ import hashlib
 import csv
 import os
 
-public_key = "8c1b9e7280938f443a2603a6e92bd6a8"
-private_key = "7da56872f4db95cfe9442631a136507057318f06"
 
 
 def character_added(name, description, ID):
